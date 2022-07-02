@@ -1,5 +1,9 @@
 // HTTP GET JSON.
 
+// LINQ queries to filter/sort data.
+// https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview
+
+
 using System.CodeDom.Compiler;
 using System.ComponentModel;
 using System.Diagnostics.CodeAnalysis;
