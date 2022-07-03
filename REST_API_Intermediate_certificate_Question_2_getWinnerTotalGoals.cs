@@ -127,7 +127,7 @@ class Result
 
         totalPages = 1;
 
-        // 2. For their home goals for that competition?
+        // 2. Get their home goals for that competition?
         while (currentPage <= totalPages)
         {
 
