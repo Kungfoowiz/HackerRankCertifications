@@ -24,7 +24,7 @@ using System.Text.Json;
 
 class Matches
 {
-    public int intpage { get; set; }
+    public int page { get; set; }
 
     public int per_page { get; set; }
 
